@@ -1,0 +1,6 @@
+aws:
+  public_key  : "<YOUR AWS PUBLIC KEY HERE>"
+  private_key : "<YOUR AWS PRIVATE KEY HERE>" 
+  s3_bucket   : "<YOUR AWS BUCKET HERE>"
+
+download_to: "<LOCAL FOLDER TO PULL FILES DOWN TO>"
