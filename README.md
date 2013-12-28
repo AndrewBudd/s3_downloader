@@ -28,9 +28,11 @@ Edit config.yml to taste.
 MOTIVATION
 ============
 
+```
 Why?
 Well, why not?
 No, but seriously, why?
+```
 
 I have a raspberry pi that I use to capture timelapses of things like snow accumulating out of the window.  The pi has a script which uploads the timelapses (and the jpgs that make them up) to an s3 bucket.  After some number of days, the objects are automatically transitioned to GLACIER using a lifecycle rule.
 
